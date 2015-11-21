@@ -1,0 +1,11 @@
+{
+  "name": "week02",
+  "version": "1.0.0",
+  "description": "my week02 folder for bcit course 2912",
+  "main": "asyncerror.pg8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Elash",
+  "license": "ISC"
+}
